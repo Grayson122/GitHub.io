@@ -1,3 +1,3 @@
 # Facebook Frame Project
 
-![spook](spook.jpg?raw=true "Optional Title")
+![spook](Spook.jpg?raw=true "Optional Title")
